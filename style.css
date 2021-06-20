@@ -1,0 +1,43 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+.container{
+ 
+    max-width: 1220px;
+    margin: auto;
+
+     
+
+}
+.navbar{
+
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    /* background-color: brown; */
+    justify-content: space-between;
+   
+
+
+}
+ul li{
+ 
+    display: inline-block;
+
+
+}
+ul li a {
+
+ margin: 10px;
+
+}
+.header{
+
+ background-color: rgb(255, 226, 162);
+
+}
